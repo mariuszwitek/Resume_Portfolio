@@ -1,0 +1,22 @@
+physics-decoder
+------------------
+A C and C++ CODA to MYSQL data decoder written for the SeaQuest Group
+at Fermilab. My contributions revolved around the uploader files in colloboration
+with RawStorage Files. Database connection information redacted
+
+password-cracker
+------------------
+An example of a multithreaded programming assignment that takes partial password information
+and uses crypto information to recover passwords
+
+numerical_methods
+------------------
+Example work for a numerical methods class
+
+SIPM
+------------------
+Python program/script for data analysis of Silicon Photomultiplier optical characteristics
+
+spimbot
+------------------
+Machine code written for a class competition
